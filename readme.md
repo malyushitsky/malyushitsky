@@ -4,7 +4,7 @@
       <a href="https://t.me/malyushitsky">
         <img src="https://img.shields.io/badge/Telegram-red?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
       </a>
-      <a href="vk.com/malkirl">
+      <a href="https://vk.com/malkirl">
         <img src="https://img.shields.io/badge/Vk-blue?logo=vkontaktem&logoColor=white&style=for-the-badge" alt="Vk"/>
       </a>
     </div>
