@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200"/>
     <div id="badges">
-      <a href="your-linkedin-URL">
+      <a href="https://t.me/malyushitsky">
         <img src="https://img.shields.io/badge/Telegram-red?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
       </a>
-      <a href="your-linkedin-URL">
+      <a href="vk.com/malkirl">
         <img src="https://img.shields.io/badge/Vk-blue?logo=vkontaktem&logoColor=white&style=for-the-badge" alt="Vk"/>
       </a>
     </div>
